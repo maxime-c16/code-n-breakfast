@@ -1,0 +1,9 @@
+.cards
+{
+	background-color: #00FF00;
+	padding: 30px;
+	margin: 30px;
+	border-color: silver;
+	border-style: solid;
+	display: inline-block;
+}
